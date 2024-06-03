@@ -1,0 +1,13 @@
+name = "Method2_templates"
+uuid = "bda20732-5125-4b35-ab66-5654ab1051c3"
+authors = ["Zhengdao LI <18081447d@connect.polyu.hk> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
